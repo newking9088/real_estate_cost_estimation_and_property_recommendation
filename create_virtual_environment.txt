@@ -1,0 +1,25 @@
+# Lets create a virtual environment for this project in VS code
+# for windows
+
+step 1: Go to View tab and click on terminal
+
+step 2: Create a virtual environmebt
+python -m venv myenv (you can choose you own venv name than virtual_environmet)
+
+step 3: Activae the virtual environment
+myenv\Scripts\activate (make sure virtual_env is the venv name you gave)
+
+step 4: Install the packages in requirements.txt
+pip install -r requirements.txt
+
+Its a good idea to freeze the installed libraries:
+pip freeze > requirements.txt
+
+If you need to deactive the environment:
+deactivate
+
+Once the environment is created, you can install additional packages:
+pip install package_name
+
+If you close the session and restart again, you need to activate the virtual environment:
+virtual_env\Scripts\activate (remember to change virtual_env to you env name if its different)
