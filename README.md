@@ -4,9 +4,6 @@ This project aimed to enhance property recommendations by predicting prices with
 ## Quick Link
 [Blogpost](https://nycdatascience.com/blog/student-works/end-to-end-machine-learning-pipeline-for-real-estate-valuation-recommendation-engine/?aiEnableCheckShortcode=true)
 
-Real Estate Valuation and Recommendation System
-Project Highlights
-
 ## Robust Real Estate Valuation Model 🏡🧮
 
 - Developed a highly accurate property valuation model with 95% accuracy, able to estimate prices within a 5% margin of error.
