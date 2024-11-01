@@ -1,0 +1,8 @@
+#!C:\Users\anita\Desktop\ames_housing_price_prediction\real_estate_cost_estimation_and_property_recommendation\myenv\Scripts\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()

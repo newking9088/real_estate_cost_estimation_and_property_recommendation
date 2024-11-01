@@ -9,6 +9,12 @@ python -m venv myenv (you can choose you own venv name than virtual_environmet)
 step 3: Activae the virtual environment
 myenv\Scripts\activate (make sure virtual_env is the venv name you gave)
 
+If you encounter the following error:
+Fatal error in launcher:
+
+First upgrade pip and try again:
+python -m pip install --upgrade pip
+
 step 4: Install the packages in requirements.txt
 pip install -r requirements.txt
 
